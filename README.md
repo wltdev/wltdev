@@ -1,5 +1,5 @@
 <h2> Hi, I'm Welinton Dias! </h2>
-<a  href="https://app.daily.dev/wltdev"><img align='right'src="https://api.daily.dev/devcards/f0bae32203814e3793ad9f3a8fd16049.png?r=j3r" width="200" alt="Welinton Dev's Dev Card"/></a>
+<a  href="https://app.daily.dev/wltdev"><img align='right'src="https://api.daily.dev/devcards/f0bae32203814e3793ad9f3a8fd16049.png?r=j3r" width="300" alt="Welinton Dev's Dev Card"/></a>
 <p><em>Full Stack developer
 </em></p>
 
@@ -10,20 +10,19 @@
 
 ```javascript
 const me = {
-  code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
+  code: ["Javascript", "Typescript", "CSS", "PHP"],
   tools: [
     "React",
     "React Native",
     "Redux",
     "Node",
     "Laravel",
-    "Tailwindcss",
+    "Tailwind CSS",
     "Styled-Components",
     "Jest",
     "Docker",
   ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "To be better next day",
+  architecture: ["Clean Code", "SOLID Principles"],
 };
 ```
 
