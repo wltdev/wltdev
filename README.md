@@ -11,7 +11,7 @@
 ```javascript
 const me = {
   code: ["Javascript", "Typescript", "CSS", "PHP"],
-  tools: [
+  toolsAndFrameworks: [
     "React",
     "React Native",
     "Redux",
